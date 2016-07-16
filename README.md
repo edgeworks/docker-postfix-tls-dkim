@@ -1,5 +1,5 @@
 # docker-postfix-tls-dkim
 
-Postfix
-OpenDKIM
-sasldb
+- Postfix
+- OpenDKIM
+- sasldb
